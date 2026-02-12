@@ -37,7 +37,7 @@
     <img height="35px" width="auto" src="https://user-images.githubusercontent.com/63710339/185727798-75572198-8764-4e7b-8a34-d772e51aa730.png">
   </a>
   &nbsp;
-  <a href="https://pulkit161001.github.io/" target="_blank">
+  <a href="https://pulkit161001.netlify.app" target="_blank">
     <img height="35px" width="auto" src="https://user-images.githubusercontent.com/63710339/185727804-31fef5f2-47f3-4830-86f8-ccbba7a1b59e.png">
   </a>
   &nbsp;
